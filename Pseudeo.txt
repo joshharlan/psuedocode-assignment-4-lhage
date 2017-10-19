@@ -11,13 +11,15 @@ IF each player's card are equal to each other than
 	:each player will pull three cards from their deck face down and flip over the third card 
 	who ever has the highest third card takes all the card pulled out from the decks on that round
 	If third card is equal to each other repeat until some one has a higher card
-If both players run of cards at the same time 
+If both players run out of cards at the same time 
 	:then the game ends in a tie
 If a person runs out of cards when they are supposed to play a card when tied	
 	:the other player wins the game
  
 	
 Who ever gets all the cards in their deck wins the game
+
+this is well written and should be good code cx
 
 
 
